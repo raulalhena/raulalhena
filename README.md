@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![NODEJS](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)<br>
 ![GIT](https://img.shields.io/badge/GIT-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)<br>
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)<br>
-![MONGODB](https://img.shields.io/badge/MongoDB-00758f?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)<br>
+![MONGODB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)<br>
 
 
 ### 🌱 Soft Skills:
