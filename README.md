@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)<br>
 ![MONGODB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)<br>
 
+---
 
 ### 🌱 Soft Skills:
 
@@ -61,11 +62,14 @@ Here are some ideas to get you started:
     
   }
 ```
+---
 
 ### 🌍 Find me at:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@raulalhn-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/raulalhn)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-@raul.alhena-833ab4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/raul.alhena)<br>
+
+---
 
 ### 📫 Reach me:
 ![Email](https://img.shields.io/badge/Gmail-raul.alhena@gmail.com-bb001b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)<br>
