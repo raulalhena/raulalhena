@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ## Find me:
 
-![[Twitter](https://img.shields.io/badge/Twitter-@raulalhn-1da1f2?style=for-the-badge&logo=twitters&logoColor=white&labelColor=101010)](https://twitter.com/raulalhn)
+[![Twitter](https://img.shields.io/badge/Twitter-@raulalhn-1da1f2?style=for-the-badge&logo=twitters&logoColor=white&labelColor=101010)](https://twitter.com/raulalhn)
