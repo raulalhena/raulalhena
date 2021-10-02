@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Junior developer, improving every day to reach the excelence.
+
+## Skills:
+
+![JAVASCRIPT](https://img.shields.io/badge/Javascript-fce821?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
+![NODEJS](https://img.shields.io/badge/NodeJS-fce821?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)<br>
+
+
+
+## Find me:
+
+![Twitter](https://twitter.com/raulalhn)
