@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Re-junior developer, improving every day to reach the excelence, retraining myself back into the technology industry. Junior in programming but with a lot of learning from my entrepreneurial ventures. Aiming the future.
 
+---
+
 ### 💻 Hard Skills:
 
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
