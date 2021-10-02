@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Junior developer, improving every day to reach the excelence.
+### Re-junior developer, improving every day to reach the excelence, retraining myself back into the technology industry. Junior in programming but with a lot of learning from my entrepreneurial ventures. Aiming the future.
 
 ### 💻 Hard Skills:
 
