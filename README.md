@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 
 ### 💻 Hard Skills:
 
+
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
 ![NODEJS](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)<br>
 ![GIT](https://img.shields.io/badge/GIT-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)<br>
 
-🌱 ### Soft Skills:
+
+### 🌱 Soft Skills:
+
 ```javascript
   class Raul Alhena {
   
@@ -45,10 +48,14 @@ Here are some ideas to get you started:
 ```
 
 
-🌍 ### Find me at:
+### 🌍 Find me at:
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-@raulalhn-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/raulalhn)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-@raul.alhena-833ab4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/raul.alhena)<br>
 
-📫 ### Reach me:
+
+### 📫 Reach me:
+
+
 
