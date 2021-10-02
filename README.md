@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 ## Find me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@raulalhn-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/raulalhn)
+[![Instagram](https://img.shields.io/badge/Instagram-@raul.alhena-833ab4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/raulalhena)
+
