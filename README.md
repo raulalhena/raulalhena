@@ -25,16 +25,23 @@ Here are some ideas to get you started:
 
 🌱 ### Soft Skills:
 ```javascript
-  if(knowledge < enough){
-    softskill = Comunicación;
-  }else if(trouble == true){
-    softskill = Resolutivo;
-  }else if(){}
-  Liderazgo
-  Resolutivo
-  Metódico
-  Creativo
-  Proactivo
+  class Raul Alhena {
+  
+    if(!teamWork){
+      this.softskill = LEADERSHIP;
+    }else if(knowledge < enough){
+      this.softskill = PROACTIVE;
+    }else if(trouble == true){
+      this.softskill = RESOLUTIVE;
+    }else if(goal == 'long run'){
+      this.softskill = METHODICAL;
+    }else if(innovation == NULL){
+      this.softskill = CREATIVE;
+    }else if(misunderstanding){
+      this.softskill = COMMUNICATIVE;
+    }
+    
+  }
 ```
 
 
