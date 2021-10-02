@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Junior developer, improving every day to reach the excelence.
 
-💻 ### Hard Skills:
+### 💻 Hard Skills:
 
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
 ![NODEJS](https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)<br>
