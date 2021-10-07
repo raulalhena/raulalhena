@@ -76,8 +76,8 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
+<div align="center">
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulalhena)](https://github.com/raulalhena/github-readme-stats)
-</p>
+</div>
 
 
