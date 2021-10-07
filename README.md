@@ -76,8 +76,7 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulalhena)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulalhena&show_icons=true&theme=cobalt)
+
 
 
