@@ -74,4 +74,9 @@ Here are some ideas to get you started:
 ### 📫 Reach me:
 ![Email](https://img.shields.io/badge/Gmail-raul.alhena@gmail.com-bb001b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)<br>
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulalhena)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
