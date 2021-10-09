@@ -1,4 +1,4 @@
-## **Hello, my name is Raúl Alhena**
+## **Hello! My name is Raúl Alhena**
 
 <!--
 **raulalhena/raulalhena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Re-junior developer, improving every day to reach the excelence, retraining myself back into the technology industry. Junior in programming but with a lot of learning from my entrepreneurial ventures. Aiming the future.
+#### Re-junior developer,retraining myself back into the technology industry, improving every day to reach the excelence. Junior in programming but with a lot of learning from my entrepreneurial ventures. Aiming the future.
 
 ---
 
