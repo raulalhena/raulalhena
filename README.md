@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
 ![NODE.JS](https://img.shields.io/badge/Node.JS-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)<br>
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)<br>
 ![GIT](https://img.shields.io/badge/GIT-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)<br>
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)<br>
 ![MONGODB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)<br>
