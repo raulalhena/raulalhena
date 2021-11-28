@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)<br>
 ![MONGODB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)<br>
 ![LINUX](https://img.shields.io/badge/Linux-FF9015?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)<br>
+![DOCKER](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)<br>
 
 
 ---
