@@ -81,7 +81,8 @@ Here are some ideas to get you started:
 
 ---
 ### My stats:
-[![ Github streak ] (https://github-readme-streak-stats.herokuapp.com/?user=raulalhena)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raulalhena&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 <!--
