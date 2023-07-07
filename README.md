@@ -80,6 +80,9 @@ Here are some ideas to get you started:
 ![Email](https://img.shields.io/badge/Gmail-raul.alhena@gmail.com-bb001b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)<br>
 
 ---
+### My stats:
+[Github streak ] (https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
+
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raulalhena&repo=github-readme-stats" />
@@ -88,7 +91,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raulalhena&repo=convoychat" />
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="github-readme-stats-6z9h49dtg-raulalhena.vercel.app/api?username=raulalhena&show_icons=true&theme=radical" /> 
 </a>
 
