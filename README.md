@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Re-junior developer,retraining myself back into the technology industry, improving every day to reach the excelence. Junior in programming but with a lot of learning from my entrepreneurial ventures. Passionate making usefull tools for mankind, aiming the future.
+#### Re-junior developer, re-training myself back into the technology industry, improving every day to reach the excelence. Junior in programming but with a lot of experience from my entrepreneurial ventures leading teams, creating and finding solutions to overcoming challenges.
 
 ---
 
