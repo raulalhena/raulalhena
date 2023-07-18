@@ -71,7 +71,8 @@ Here are some ideas to get you started:
 
 ### 📫 Reach me:
 ![Email](https://img.shields.io/badge/Gmail-raul.alhena@gmail.com-bb001b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)<br>
-[![Linkedin](https://img.shields.io/badge/Linkedin-@raul.alhena-833ab4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/raul.alhena)<br>
+[![Linkedin](https://img.shields.io/badge/Linkedin-@raul.alhena-833ab4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/raulalhena/)<br>
+
 
 ---
 
