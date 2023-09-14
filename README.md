@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 Hard Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
 ![NODE.JS](https://img.shields.io/badge/Node.JS-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)<br>
@@ -38,7 +41,6 @@ Here are some ideas to get you started:
 ![LINUX](https://img.shields.io/badge/Linux-FF9015?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)<br>
 ![FIGMA](https://img.shields.io/badge/Figma-800080?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)<br>
 ![DOCKER](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)<br>
--->
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) &nbsp;
 ![NODE.JS](https://img.shields.io/badge/Node.JS-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010) &nbsp;
@@ -57,6 +59,7 @@ Here are some ideas to get you started:
 ![LINUX](https://img.shields.io/badge/Linux-FF9015?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010) &nbsp;
 ![FIGMA](https://img.shields.io/badge/Figma-800080?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010) &nbsp;
 ![DOCKER](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010) &nbsp;
+-->
 
 
 
@@ -99,13 +102,13 @@ Here are some ideas to get you started:
 
 ### 📫 Reach me:
 ![Email](https://img.shields.io/badge/Gmail-raul.alhena@gmail.com-bb001b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)<br>
+[![Website](https://img.shields.io/badge/Website-@raulalhn-1da1f2?style=for-the-badge&logo=website&logoColor=white&labelColor=101010)](https://raulalhena.com)<br>
 [![Linkedin](https://img.shields.io/badge/Linkedin-@raul.alhena-833ab4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/raulalhena/)<br>
 
 
 ---
 
 ### 🌍 Find me at:
-[![Website](https://img.shields.io/badge/Website-@raulalhn-1da1f2?style=for-the-badge&logo=website&logoColor=white&labelColor=101010)](https://raulalhena.com)<br>
 [![Twitter](https://img.shields.io/badge/Twitter-@raulalhn-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/raulalhn)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-@raul.alhena-833ab4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/raul.alhena)<br>
 
