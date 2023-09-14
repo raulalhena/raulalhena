@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)<br>
 ![NESTJS](https://img.shields.io/badge/Nestjs-ff0000?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)<br>
 ![REACT](https://img.shields.io/badge/React-0da6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)<br>
-![JAVA](https://img.shields.io/badge/Java-dd2222?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)<br>
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-dd2222?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)<br>
 ![NEXTJS](https://img.shields.io/badge/Nextjs-0da6ff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)<br>
 ![C](https://img.shields.io/badge/C-75a4d7?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)<br>
-![SOLIDITY](https://img.shields.io/badge/Solidity-0a4255?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)<br>
+![SOLIDITY](https://img.shields.io/badge/Solidity-0a4299?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)<br>
 ![GIT](https://img.shields.io/badge/GIT-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)<br>
 ![GITHUB](https://img.shields.io/badge/GITHUB-f1502f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)<br>
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)<br>
