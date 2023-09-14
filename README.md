@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)<br>
 ![NESTJS](https://img.shields.io/badge/Nestjs-ff0000?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)<br>
 ![JAVA](https://img.shields.io/badge/Java-dd3333?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)<br>
-![SOLIDITY](https://img.shields.io/badge/React-0da6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)<br>
+![SOLIDITY](https://img.shields.io/badge/Solidity-0da6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)<br>
 ![REACT](https://img.shields.io/badge/React-0da6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)<br>
 ![NEXTJS](https://img.shields.io/badge/Nextjs-0da6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)<br>
 ![C](https://img.shields.io/badge/C-75a4d7?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)<br>
