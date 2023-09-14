@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 ### 📫 Reach me:
 ![Email](https://img.shields.io/badge/Gmail-raul.alhena@gmail.com-bb001b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)<br>
-[![Website](https://img.shields.io/badge/Website-@raulalhn-1da1f2?style=for-the-badge&logo=website&logoColor=white&labelColor=101010)](https://raulalhena.com)<br>
+[![Website](https://img.shields.io/badge/Website-https://raulalhena.com-ff7700?style=for-the-badge&logo=website&logoColor=white&labelColor=101010)](https://raulalhena.com)<br>
 [![Linkedin](https://img.shields.io/badge/Linkedin-@raul.alhena-833ab4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/raulalhena/)<br>
 
 
