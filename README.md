@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![NODE.JS](https://img.shields.io/badge/Node.JS-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)<br>
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)<br>
 ![NESTJS](https://img.shields.io/badge/Nestjs-ff0000?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)<br>
+![REACT](https://img.shields.io/badge/React-000055?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)<br>
 ![C](https://img.shields.io/badge/C-75a4d7?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)<br>
 ![GIT](https://img.shields.io/badge/GIT-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)<br>
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)<br>
