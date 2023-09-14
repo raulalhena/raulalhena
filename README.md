@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![JAVA](https://img.shields.io/badge/Java-dd3333?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)<br>
 ![SOLIDITY](https://img.shields.io/badge/Solidity-0da6ff?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)<br>
 ![REACT](https://img.shields.io/badge/React-0da6ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)<br>
-![NEXTJS](https://img.shields.io/badge/Nextjs-0da6ff?style=for-the-badge&logo=nextjs&logoColor=white&labelColor=101010)<br>
+![NEXTJS](https://img.shields.io/badge/Nextjs-0da6ff?style=for-the-badge&logo=next&logoColor=white&labelColor=101010)<br>
 ![C](https://img.shields.io/badge/C-75a4d7?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)<br>
 ![GIT](https://img.shields.io/badge/GIT-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)<br>
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)<br>
