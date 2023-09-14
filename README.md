@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 💻 Hard Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,node,typescript,express,nestjs,react,java,nextjs,c,solidity,git,github,mysql,mongodb,linux,figma,docker)](https://skillicons.dev)
 
 <!--
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
