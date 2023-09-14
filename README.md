@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 💻 Hard Skills:
 
-![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
+![JavaScript]<br>(https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
 ![NODE.JS](https://img.shields.io/badge/Node.JS-68A063?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)<br>
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)<br>
 ![EXPRESS](https://img.shields.io/badge/Express-fd6a02?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)<br>
