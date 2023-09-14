@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-75a4d7?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)<br>
 ![SOLIDITY](https://img.shields.io/badge/Solidity-0a4299?style=for-the-badge&logo=solidity&logoColor=white&labelColor=101010)<br>
 ![GIT](https://img.shields.io/badge/GIT-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)<br>
-![GITHUB](https://img.shields.io/badge/GITHUB-fa502f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)<br>
+![GITHUB](https://img.shields.io/badge/GITHUB-fa3019?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)<br>
 ![MYSQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)<br>
 ![MONGODB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)<br>
 ![LINUX](https://img.shields.io/badge/Linux-FF9015?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)<br>
