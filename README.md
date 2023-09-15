@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 💻 Hard Skills:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,typescript,express,nestjs,react,java,spring,nextjs,c,solidity,git,github,mysql,mongodb,postgres,linux,postman,vscode,visualstudio,vite,prisma,figma,docker,nginx,githubactions,bash,unity&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,typescript,express,nestjs,react,java,spring,nextjs,c,solidity,git,github,mysql,mongodb,postgres,linux,postman,vscode,visualstudio,vite,prisma,figma,materialui,jest,docker,nginx,githubactions,bash,unity&perline=8" />
 <!-- ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,typescript,express,nestjs,react,java,spring,nextjs,c,solidity,git,github,mysql,mongodb,linux,figma,docker,nginx,githubactions,bash&perline=4) -->
 </p>
 
