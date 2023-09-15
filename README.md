@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 Hard Skills:
-<p align=center>
+<p align="center">
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,typescript,express,nestjs,react,java,spring,nextjs,c,solidity,git,github,mysql,mongodb,linux,figma,docker,nginx,githubactions,bash&perline=4)
 </p>
 
