@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 Hard Skills:
-
+<p align=center>
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,typescript,express,nestjs,react,java,spring,nextjs,c,solidity,git,github,mysql,mongodb,linux,figma,docker,nginx,githubactions,bash&perline=4)
-Bash
+</p>
+
 
 <!--
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)<br>
