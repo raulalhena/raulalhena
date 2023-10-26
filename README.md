@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Re-junior Fullstack Web Developer, upskilling myself back into the development industry, improving every day to reach the excelence. Junior in programming but with a lot of experience from my entrepreneurial ventures leading teams, creating and finding solutions to overcoming challenges.
+#### Fullstack developer, reskilling myself back into the development industry. Learning in programming again, after a while with a lot of experience from my entrepreneurial ventures leading teams, creating and finding solutions to overcoming challenges.
 
 ---
 
