@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 ![LINUX](https://img.shields.io/badge/Linux-FF9015?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010) &nbsp;
 ![FIGMA](https://img.shields.io/badge/Figma-800080?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010) &nbsp;
 ![DOCKER](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010) &nbsp;
+![PYTHON](https://img.shields.io/badge/Python-0db7ed?style=for-the-badge&logo=python&logoColor=white&labelColor=101010) &nbsp;
 -->
 
 
