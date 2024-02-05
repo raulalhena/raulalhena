@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Fullstack developer, reskilling myself back into the development industry. Learning in programming again, after a while with a lot of experience from my entrepreneurial ventures leading teams, creating and finding solutions to overcoming challenges.
+#### Junior fullstack developer, reskilling myself back into the development industry. Learning in programming again, after a while with a lot of experience from my entrepreneurial ventures leading teams, creating and finding solutions to overcoming challenges.
 
 ---
 
