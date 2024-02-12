@@ -79,29 +79,29 @@ Here are some ideas to get you started:
 ### 🌱 Soft Skills:
 
 ```javascript
-  class Raul Alhena {
+  class Raul Alhena extends CuriousHumanBeen {
   
-    if(!teamWork){
+    if(!teamWork) {
     
       this.softskill = LEADERSHIP;
       
-    }else if(knowledge < enough){
+    } else if(knowledge < enough){
     
       this.softskill = PROACTIVE;
       
-    }else if(trouble == true){
+    } else if(trouble == true) {
     
       this.softskill = RESOLUTIVE;
       
-    }else if(goal == 'long run'){
+    } else if(goal == 'long run') {
     
       this.softskill = METHODICAL;
       
-    }else if(innovation == NULL){
+    } else if(innovation == NULL) {
     
       this.softskill = CREATIVE;
       
-    }else if(misunderstanding){
+    } else if(misunderstanding) {
     
       this.softskill = COMMUNICATIVE;
       
@@ -112,10 +112,10 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Reach me:
-[![Email](https://img.shields.io/badge/Gmail-raul.alhena@gmail.com-bb001b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:raul.alhena@gmail.com)<br>
-[![Website](https://img.shields.io/badge/Website-http://raulalhena.com-ff7700?style=for-the-badge&logo=website&logoColor=white&labelColor=101010)](http://raulalhena.com)<br>
-[![Linkedin](https://img.shields.io/badge/Linkedin-@raul.alhena-833ab4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/raulalhena/)<br>
-[![Medium](https://img.shields.io/badge/Medium-https://raul-alhena.medium.com-020202?style=for-the-badge&logo=medium&logoColor=white&labelColor=gray)](https://raul-alhena.medium.com/)<br>
+[![Email](https://img.shields.io/badge/Gmail-raul.alhena@gmail.com-020202?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:raul.alhena@gmail.com)<br>
+[![Website](https://img.shields.io/badge/Website-http://raulalhena.com-020202?style=for-the-badge&logo=website&logoColor=white&labelColor=orange)](http://raulalhena.com)<br>
+[![Linkedin](https://img.shields.io/badge/Linkedin-@raul.alhena-020202?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/raulalhena/)<br>
+[![Medium](https://img.shields.io/badge/Medium-Articles-020202?style=for-the-badge&logo=medium&logoColor=white&labelColor=gray)](https://raul-alhena.medium.com/)<br>
 
 ---
 ### My stats:
