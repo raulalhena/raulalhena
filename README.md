@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Full stack developer passionate about creating tools that are useful, that help improve the lives of others in any aspect, while I like to research and learn continuously as a lifestyle.
 
-### Software development gives me the opportunity to combine these two passions, constantly acquiring new knowledge while contributing to social improvement, creating applications.
+#### Software development gives me the opportunity to combine these two passions, constantly acquiring new knowledge while contributing to social improvement, creating applications.
 
 ---
 
