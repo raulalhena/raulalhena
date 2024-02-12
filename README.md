@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Junior fullstack developer, reskilling myself back into the development industry. Learning in programming again, after a while with a lot of experience from my entrepreneurial ventures leading teams, creating and finding solutions to overcoming challenges.
+#### Full stack developer passionate about creating tools that are useful, that help improve the lives of others in any aspect, while I like to research and learn continuously as a lifestyle.
+
+Software development gives me the opportunity to combine these two passions, constantly acquiring new knowledge while contributing to social improvement, creating applications.
 
 ---
 
